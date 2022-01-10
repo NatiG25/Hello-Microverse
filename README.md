@@ -8,10 +8,6 @@ This project has two files, an HTML & a CSS file.
 
 - HTML & CSS
 
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
 ## Authors
 
 👤 **Author1**
